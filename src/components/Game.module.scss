@@ -1,4 +1,7 @@
-.button {
-	padding: 20px;
-	color: green;
+.title {
+	text-align: center;
+}
+.cardContent {
+	display: flex;
+	flex-direction: column;
 }
